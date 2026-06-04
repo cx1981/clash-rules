@@ -8,9 +8,3 @@ payload:
   # 杭州本地网站
   - "19lou.com"
   - "+.19lou.com"
-
-  # 千金药业相关域名
-  # 注意：base.yaml 中已对 atrust.qjyy.com、dp.qjyy.com 做了更精确规则；
-  # 这里作为 qjyy.com 其他子域名的直连兜底。
-  - "qjyy.com"
-  - "+.qjyy.com"
