@@ -2,3 +2,5 @@ payload:
   # 示例：
   # - "example.com"
   # - "+.example.com"
+  - "wgetcloud.org"
+  - "+.wgetcloud.org"
