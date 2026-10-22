@@ -4,7 +4,9 @@ payload:
   - "+.agicamp.com"
   - "geekbang.org"
   - "+.geekbang.org"
-
   # 杭州本地网站
   - "19lou.com"
   - "+.19lou.com"
+  # 阿里云
+  - "aliyun.com"
+  - "+.aliyun.com"
